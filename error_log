@@ -1,0 +1,1 @@
+[19-Dec-2020 18:59:48 UTC] PHP Fatal error:  Trait 'App\Notifiable' not found in /home/abqvzd9xik8x/public_html/app/Category.php on line 7
